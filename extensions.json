@@ -1,0 +1,7 @@
+{
+  "id": "aichat",
+  "name": "AI Chat",
+  "description": "一个用于与 AI 进行聊天的扩展，支持自定义 OpenRouter API 配置和 AI 模型。",
+  "url": "https://proxy.ghproxy.cloud/https://raw.githubusercontent.com/Lcyys666/-/main/aichat.js",
+  "tags": ["lcy"]
+}
